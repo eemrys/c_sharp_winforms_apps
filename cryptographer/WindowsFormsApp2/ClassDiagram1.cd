@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApp2.Form1">
+    <Position X="10.25" Y="10.5" Width="1.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Field Name="button5" Hidden="true" />
+      <Field Name="button6" Hidden="true" />
+      <Field Name="flowLayoutPanel1" Hidden="true" />
+      <Field Name="flowLayoutPanel2" Hidden="true" />
+      <Field Name="flowLayoutPanel4" Hidden="true" />
+      <Field Name="textBox1" Hidden="true" />
+      <Field Name="textBox10" Hidden="true" />
+      <Field Name="textBox11" Hidden="true" />
+      <Field Name="textBox2" Hidden="true" />
+      <Field Name="textBox4" Hidden="true" />
+      <Field Name="textBox5" Hidden="true" />
+      <Field Name="textBox6" Hidden="true" />
+      <Field Name="textBox7" Hidden="true" />
+      <Field Name="textBox8" Hidden="true" />
+      <Field Name="textBox9" Hidden="true" />
+    </Members>
+    <AssociationLine Name="button4" Type="System.Windows.Forms.Button" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="12.375" />
+        <Point X="4.25" Y="12.375" />
+        <Point X="4.25" Y="8.441" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="openFileDialog1" Type="System.Windows.Forms.OpenFileDialog" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="12.938" />
+        <Point X="2" Y="12.938" />
+        <Point X="2" Y="8.441" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="progressBar1" Type="System.Windows.Forms.ProgressBar" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="11.75" />
+        <Point X="6.5" Y="11.75" />
+        <Point X="6.5" Y="6.941" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="textBox3" Type="System.Windows.Forms.TextBox" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="11.125" />
+        <Point X="8.75" Y="11.125" />
+        <Point X="8.75" Y="8.441" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>QSBAAAgQASBQAACQEACAQABCIMA/AAAAEHAOAAAAAIA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="button1" />
+      <Field Name="button3" />
+      <Field Name="button2" />
+      <Field Name="button4" />
+      <Field Name="button5" />
+      <Field Name="button6" />
+      <Field Name="flowLayoutPanel1" />
+      <Field Name="flowLayoutPanel2" />
+      <Field Name="flowLayoutPanel3" />
+      <Field Name="flowLayoutPanel4" />
+      <Field Name="openFileDialog1" />
+      <Field Name="progressBar1" />
+      <Field Name="textBox1" />
+      <Field Name="textBox10" />
+      <Field Name="textBox11" />
+      <Field Name="textBox2" />
+      <Field Name="textBox3" />
+      <Field Name="textBox4" />
+      <Field Name="textBox5" />
+      <Field Name="textBox6" />
+      <Field Name="textBox7" />
+      <Field Name="textBox8" />
+      <Field Name="textBox9" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="System.Windows.Forms.Button" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.FlowLayoutPanel" Collapsed="true">
+    <Position X="12.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.OpenFileDialog" Collapsed="true">
+    <Position X="1.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.ProgressBar" Collapsed="true">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.TextBox" Collapsed="true">
+    <Position X="8" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="10.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.ContainerControl" Collapsed="true">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.ScrollableControl" Collapsed="true">
+    <Position X="11.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.Control" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.ComponentModel.Component" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.MarshalByRefObject" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.FileDialog" Collapsed="true">
+    <Position X="1.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.CommonDialog" Collapsed="true">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Panel" Collapsed="true">
+    <Position X="12.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.ButtonBase" Collapsed="true">
+    <Position X="3.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.TextBoxBase" Collapsed="true">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
